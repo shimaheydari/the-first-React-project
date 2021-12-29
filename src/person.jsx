@@ -10,7 +10,7 @@ const Person = props => {
             </div>
             <div className="btns">
                 <button type="button" className="btn-agree">agree</button>
-                <button type="button" className="btn-deagree" >deagree</button>
+                <button type="button" className="btn-disagree" >disagree</button>
 
             </div>
         </div>
