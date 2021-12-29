@@ -90,7 +90,7 @@ body {
     color: white;
 }
 
-.box .btns .btn-deagree {
+.box .btns .btn-disagree {
     background-color: transparent !important;
     color: red;
     border: 1px solid red;
@@ -109,7 +109,7 @@ body {
     -o-transition: all 0.5s;
 }
 
-.box .btns .btn-deagree:hover {
+.box .btns .btn-disagree:hover {
     background-color: red !important;
     color: white;
 }
